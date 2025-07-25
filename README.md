@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dimitri Montgomery 👋</h1>
+<p align="center">
+  🧠 CS Major @ UNCW | AI Concentration | Data Science Minor  
+</p>
 
-<!--
-**dimitrimont/dimitrimont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧬 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student focused on artificial intelligence, machine learning, and intelligent system design. I enjoy building applied AI tools — from malware detection using LLMs and semantic similarity, to campus-wide productivity apps with React Native and Supabase.
+
+- 🔭 Currently researching document similarity in malware detection (Gemini + LSH)
+- 🌱 Developing **CampusLink**, a full-stack student toolkit and marketplace
+- 🧠 Exploring prompt engineering, behavioral clustering, and ML pipelines
+- ⚡ Fun fact: I love blending AI, security, and system-level programming
+
+---
+
+### 🧰 Tech Stack
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+<img src="https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase" />
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+<img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+<img src="https://img.shields.io/badge/-Gemini_API-05122A?style=flat&logo=google" />
+<img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter" />
+
+---
+
+### 📊 GitHub Stats
+
+![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrimont&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrimont&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/dimitri-montgomery)  
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/dimitrimont)
