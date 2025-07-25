@@ -32,8 +32,6 @@ I'm a Computer Science student focused on artificial intelligence, machine learn
 
 ### 📊 GitHub Stats
 
-![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrimont&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrimont&layout=compact&theme=radical)
 
 ---
