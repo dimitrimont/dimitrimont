@@ -12,7 +12,6 @@ I'm a Computer Science student focused on artificial intelligence, machine learn
 - 🔭 Currently researching document similarity in malware detection (Gemini + LSH)
 - 🌱 Developing **CampusLink**, a full-stack student toolkit and marketplace
 - 🧠 Exploring prompt engineering, behavioral clustering, and ML pipelines
-- ⚡ Fun fact: I love blending AI, security, and system-level programming
 
 ---
 
