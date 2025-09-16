@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Dimitri Montgomery 👋</h1>
+<h1 align="center">Dimitri Montgomery</h1>
 <p align="center">
-  🧠 CS Major @ UNCW | AI Concentration | Data Science Minor  
+  CS Major @ UNCW | AI Concentration | Data Science Minor  
 </p>
 
 ---
