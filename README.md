@@ -3,6 +3,7 @@
   M.S. Computer Science @ NC State (AI Track) | B.S. CS @ UNCW, Concentration in AI, Minor in Data Science
 </p>
 <p align="center">
+  <a href="https://dimitri-montgomery-site.pages.dev/">Personal Website</a> •
   <a href="https://linkedin.com/in/dimitri-montgomery">LinkedIn</a> •
   <a href="mailto:montgomerydimitri1@gmail.com">Email</a>
 </p>
